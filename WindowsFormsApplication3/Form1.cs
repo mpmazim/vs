@@ -22,7 +22,7 @@ namespace WindowsFormsApplication3
         private void button1_Click(object sender, EventArgs e)
         {
             myDelegate md = new myDelegate(method1);
-            md.Invoke("mohammed",32);
+            md.Invoke("see u",32);
 
         }
         void method1(string name,int age) {
