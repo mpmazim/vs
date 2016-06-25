@@ -1,0 +1,9 @@
+c:\users\azim\documents\visual studio 2015\Projects\dragTest\dragTest\bin\Debug\dragTest.exe.config
+c:\users\azim\documents\visual studio 2015\Projects\dragTest\dragTest\bin\Debug\dragTest.exe
+c:\users\azim\documents\visual studio 2015\Projects\dragTest\dragTest\bin\Debug\dragTest.pdb
+c:\users\azim\documents\visual studio 2015\Projects\dragTest\dragTest\obj\Debug\dragTest.csprojResolveAssemblyReference.cache
+c:\users\azim\documents\visual studio 2015\Projects\dragTest\dragTest\obj\Debug\dragTest.Properties.Resources.resources
+c:\users\azim\documents\visual studio 2015\Projects\dragTest\dragTest\obj\Debug\dragTest.csproj.GenerateResource.Cache
+c:\users\azim\documents\visual studio 2015\Projects\dragTest\dragTest\obj\Debug\dragTest.exe
+c:\users\azim\documents\visual studio 2015\Projects\dragTest\dragTest\obj\Debug\dragTest.pdb
+c:\users\azim\documents\visual studio 2015\Projects\dragTest\dragTest\obj\Debug\dragTest.Form1.resources
